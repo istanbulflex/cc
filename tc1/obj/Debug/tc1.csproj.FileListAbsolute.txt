@@ -1,0 +1,10 @@
+C:\Users\Lab6-\source\repos\tc1\bin\Debug\tc1.exe.config
+C:\Users\Lab6-\source\repos\tc1\bin\Debug\tc1.exe
+C:\Users\Lab6-\source\repos\tc1\bin\Debug\tc1.pdb
+C:\Users\Lab6-\source\repos\tc1\obj\Debug\tc1.csproj.AssemblyReference.cache
+C:\Users\Lab6-\source\repos\tc1\obj\Debug\tc1.Form1.resources
+C:\Users\Lab6-\source\repos\tc1\obj\Debug\tc1.Properties.Resources.resources
+C:\Users\Lab6-\source\repos\tc1\obj\Debug\tc1.csproj.GenerateResource.cache
+C:\Users\Lab6-\source\repos\tc1\obj\Debug\tc1.csproj.CoreCompileInputs.cache
+C:\Users\Lab6-\source\repos\tc1\obj\Debug\tc1.exe
+C:\Users\Lab6-\source\repos\tc1\obj\Debug\tc1.pdb
